@@ -1,24 +1,7 @@
-Problem Statement: Cars4U
+### Business Context
 
-Business Context
+Used automobiles are in high demand in the Indian market right now. The pre-owned car market has grown over the past few years and is currently bigger than the new car market, notwithstanding the recent slowdown in new car sales. A young software start-up called Cars4U wants to get into this market by finding openings.
 
-There is a huge demand for used cars in the Indian Market today. As sales of new cars have slowed down in the recent past, the pre-owned car market has continued to grow over the past years and is larger than the new car market now. Cars4U is a budding tech start-up that aims to find footholes in this market.
- 
-Objective 
-You, as a senior data scientist at Cars4U, you have to come up with a pricing model that can effectively predict the price of used cars and can help the business in devising profitable strategies using differential pricing. For example, if the business knows the market price, it will never sell anything below it.
- 
-Data Dictionary
-1.	S.No.: Serial number
-2.	Name: Name of the car which includes brand name and model name
-3.	Location: Location in which the car is being sold or is available for purchase (cities )
-4.	Year: Manufacturing year of the car
-5.	Kilometers_driven: The total kilometers  (a unit used to measure length or distance) driven in the car by the previous owner(s)
-6.	Fuel_Type: The type of fuel used by the car (Petrol, Diesel, Electric, CNG, LPG)
-7.	Transmission: The type of transmission used by the car (Automatic/Manual)
-8.	Owner: Type of ownership
-9.	Mileage: The standard mileage offered by the car company in kmpl or km/kg
-10.	Engine: The displacement volume of the engine in CC
-11.	Power: The maximum power of the engine in bhp 
-12.	Seats: The number of seats in the car
-13.	New_Price: The price of a new car of the same model in INR Lakhs (1 Lakh INR = 100,000 INR)
-14.	Price: The price of the used car in INR Lakhs
+While 3.6 million new automobiles were sold in 2018, there were about 4 million used cars purchased and sold. Sales of new cars are slowing down, which may indicate that consumers' preferences are changing to the pre-owned market. In fact, rather than purchasing brand-new vehicles, several auto dealers opt to swap out their outdated vehicles for pre-owned ones. Used cars are very different animals with enormous uncertainty in both pricing and supply compared to new cars, where price and supply are fairly deterministic and managed by OEMs (Original Equipment Manufacturer), with the exception of dealership level discounts that only apply in the final stages of the customer journey. In light of this, these used automobiles' price strategy becomes crucial to their ability to expand in the market.
+
+As a senior data scientist at Cars4U, you have to come up with a pricing model that can properly estimate the price of used automobiles and may help the business in creating profitable strategies employing differential pricing. For instance, if the company is aware of the going rate, it will never sell anything for less.
