@@ -1,4 +1,4 @@
-Problem Description - Case Study on Anime Rating
+Problem Description - Case Study on Anime Rating 
 
 A streaming startup called Context Streamist offers films and web series to viewers all over the world. Every piece of content on their portal has been reviewed by users, and the portal also offers other details about the content, such as how many people have seen it, how many more want to watch it, how many episodes there are, how long each episode is, etc.
 
