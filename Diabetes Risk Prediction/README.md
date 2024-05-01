@@ -10,7 +10,7 @@ In order to better understand this disease in women, researchers at the Bio-Solu
 
 Building a classification model utilising a dataset gathered by the "National Institute of Diabetes and Digestive and Kidney Diseases" that includes multiple attributes that help determine a person's risk of diabetes is your task as a data scientist at Bio-Solutions.
 
-Goal: The data set seeks to provide answers to the following important queries:
+Goal: The data set seeks to provide answers to the following important queries: 
 
 What are the several factors that can be used to determine if a person is at risk of developing diabetes?
 
