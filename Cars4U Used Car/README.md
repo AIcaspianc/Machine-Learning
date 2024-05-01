@@ -6,7 +6,7 @@ While 3.6 million new automobiles were sold in 2018, there were about 4 million 
 
 As a senior data scientist at Cars4U, you have to come up with a pricing model that can properly estimate the price of used automobiles and may help the business in creating profitable strategies employing differential pricing. For instance, if the company is aware of the going rate, it will never sell anything for less.
 
-
+ 
 ### Objective
 
 To explore and visualize the dataset, build a linear regression model to predict the prices of used cars, and generate a set of insights and recommendations that will help the business.
