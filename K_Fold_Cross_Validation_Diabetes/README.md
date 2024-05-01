@@ -2,7 +2,7 @@
 
 ## Context
 
-One of the most common diseases in the world, diabetes is becoming more and more common among sufferers. Although the exact aetiology of diabetes is still unknown, researchers think that environmental lifestyle factors and genetics both contribute significantly to the disease. 
+One of the most common diseases in the world, diabetes is becoming more and more common among sufferers. Although the exact aetiology of diabetes is still unknown, researchers think that environmental lifestyle factors and genetics both contribute significantly to the disease.  
 
 Diabetes increases the chance of acquiring certain secondary health problems, including heart disease and nerve damage. Therefore, diabetes can be detected and treated early to avoid complications and lower the chance of developing serious health issues. 
 Despite being incurable, medicines and treatment can help manage it.
