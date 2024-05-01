@@ -12,7 +12,7 @@ Using the data at hand, you, as the data scientist for Moonshine Company, must d
 
 **Goal:**
 
-The following important questions are addressed by the data set:
+The following important questions are addressed by the data set: 
 
 What are some distinguishing characteristics of a premium, high-quality wine?
 
