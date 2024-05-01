@@ -2,7 +2,7 @@
 
 **Case Study: Bike Sharing using Ensemble Techniques**
 
-**Context:**
+**Context:** 
 
 The current generation of traditional bike rentals, known as bike-sharing systems, automate the entire membership, rental, and return process. The user can effortlessly rent a bike from one location and return to another with the help of these systems. There are currently more than 500 bike-sharing programmes operating worldwide, with over 500,000 bicycles. These systems are of tremendous interest now because of their significance in relation to transportation, environmental, and health issues.
 
