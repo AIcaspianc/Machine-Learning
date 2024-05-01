@@ -1,4 +1,4 @@
-**Neural Network Analysis on MNIST Dataset**
+**Neural Network Analysis on MNIST Dataset** 
 
 This repository contains a comprehensive Jupyter notebook that demonstrates the process of applying neural networks to the famous MNIST dataset, a collection of handwritten digits that serves as a benchmark for classification algorithms. Our goal is to illustrate not just the effectiveness of neural networks in recognizing handwritten digits, but also to showcase the various steps involved in a machine learning project, including data preparation, model building, training, evaluation, and visualization of the results.
 
